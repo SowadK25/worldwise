@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,64 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "28a3",
+      "cityName": "Waterloo",
+      "country": "Canada",
+      "date": "2024-12-27T17:08:01.537Z",
+      "notes": "My home",
+      "position": {
+        "lat": "43.464880828929545",
+        "lng": "-80.52291870117188"
+      }
+    },
+    {
+      "id": "259f",
+      "cityName": "Ivry-sur-Seine",
+      "country": "France",
+      "date": "2024-12-27T17:08:48.177Z",
+      "notes": "paris",
+      "position": {
+        "lat": "48.814098527355746",
+        "lng": "2.3730468750000004"
+      }
+    },
+    {
+      "id": "b132",
+      "cityName": "Buxton",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "date": "2024-12-27T17:12:40.764Z",
+      "notes": "s",
+      "position": {
+        "lat": "53.22576843579022",
+        "lng": "-1.9335937500000002"
+      }
+    },
+    {
+      "id": "ca85",
+      "cityName": "Eyjafjarðarsveit",
+      "country": "Iceland",
+      "emoji": "🇮🇸",
+      "date": "2024-12-27T17:14:59.924Z",
+      "notes": "",
+      "position": {
+        "lat": "64.92354174306499",
+        "lng": "-18.281250000000004"
+      }
+    },
+    {
+      "id": "5bca",
+      "cityName": "Aqmol",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2024-12-27T17:20:03.654Z",
+      "notes": "",
+      "position": {
+        "lat": "50.736455137010665",
+        "lng": "71.36718750000001"
+      }
     }
   ]
 }

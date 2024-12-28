@@ -48,28 +48,6 @@
       }
     },
     {
-      "id": "259f",
-      "cityName": "Ivry-sur-Seine",
-      "country": "France",
-      "date": "2024-12-27T17:08:48.177Z",
-      "notes": "paris",
-      "position": {
-        "lat": "48.814098527355746",
-        "lng": "2.3730468750000004"
-      }
-    },
-    {
-      "id": "b132",
-      "cityName": "Buxton",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "date": "2024-12-27T17:12:40.764Z",
-      "notes": "s",
-      "position": {
-        "lat": "53.22576843579022",
-        "lng": "-1.9335937500000002"
-      }
-    },
-    {
       "id": "ca85",
       "cityName": "Eyjafjarðarsveit",
       "country": "Iceland",
@@ -79,18 +57,6 @@
       "position": {
         "lat": "64.92354174306499",
         "lng": "-18.281250000000004"
-      }
-    },
-    {
-      "id": "5bca",
-      "cityName": "Aqmol",
-      "country": "Kazakhstan",
-      "emoji": "🇰🇿",
-      "date": "2024-12-27T17:20:03.654Z",
-      "notes": "",
-      "position": {
-        "lat": "50.736455137010665",
-        "lng": "71.36718750000001"
       }
     }
   ]
